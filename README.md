@@ -1,4 +1,4 @@
-# nba_pts_mod
+# scs.nba.mod.pts
 
 ## TO DO:
 - [ ] Get C++ compiler working for renv
